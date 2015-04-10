@@ -7,4 +7,4 @@ Problèmes qui m'ont pourris la vie ! (Une sorte de FAQ)
 * Utiliser la commande open . permet d'ouvrir le finder, là où on se trouve
 * Utiliser cmd + , ouvre les préférences
 * J'ai appris à pouvoir envoyer un SMS (la balise) avec iOS et enlever l'auto-correction
-* 
+* J'ai appris le deviceMotion quand on secoue le téléphone (seulement si accéléromètre)
