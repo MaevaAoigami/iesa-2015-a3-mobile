@@ -14,3 +14,6 @@ Problèmes qui m'ont pourris la vie ! (Une sorte de FAQ)
 
 
 * Quand on installe et "instancie" un plugin, ne pas oublier de faire dans le dossier exo-07/hello (par exemple), ne pas oublier de faire un $cordova prepare
+
+
+* Si on ajoute une nouvelle fonction (exemple plugin Connection) ne pas oublier d'utiliser la norme pour écrire (comme ceux précédent)
