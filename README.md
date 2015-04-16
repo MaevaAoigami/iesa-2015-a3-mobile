@@ -11,3 +11,6 @@ Problèmes qui m'ont pourris la vie ! (Une sorte de FAQ)
 * On peut se faire recaler de l'appStore juste à cause d'un problème de design (look ans feel)
 * La commande cmd + shift + K permet de clean le projet (vider le cache)
 * On peut modifier l'icon et le splash screen via le code (config.xml à la racine) ou dans "General" du projet
+
+
+* Quand on installe et "instancie" un plugin, ne pas oublier de faire dans le dossier exo-07/hello (par exemple), ne pas oublier de faire un $cordova prepare
