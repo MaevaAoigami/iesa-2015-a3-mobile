@@ -17,3 +17,10 @@ Problèmes qui m'ont pourris la vie ! (Une sorte de FAQ)
 
 
 * Si on ajoute une nouvelle fonction (exemple plugin Connection) ne pas oublier d'utiliser la norme pour écrire (comme ceux précédent)
+
+
+* J'ai appris à créer un tag (une étiquette) sur git pour faire un versioning -->
+* //  Permet de voir tous les tags
+* $ git tag
+* $ git tag -l 'v1.4.2' --> rechercher selon un pattern
+* $ git tag v1.4 --> permet de créer un tag LEGER
